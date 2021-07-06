@@ -1,6 +1,6 @@
 //gitt
 #include<iostream>
-//make
+//makea
 using namespace std;
 int main()
 {
